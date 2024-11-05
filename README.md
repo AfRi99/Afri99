@@ -1,8 +1,9 @@
 ### Hi there 👋, My name is Afritha
 #### A passionate Full Stack & Mobile developer from Sri Lanka :)
-I am a Full Stack Web Developer And, I have a keen problem-solving skill with good communication skills. Moreover, I have a huge passion for Front-End Development. I have more than four years of experience in Front-End Development. I always wanted to spend more me on Front-End to deliver an affordable product. In programming, I have some experience in MERN and, can learn new technology and start working on it.
+I am a dedicated Full Stack Web Developer with strong problem-solving abilities and excellent communication skills. I am deeply passionate about Front-End Development and have over three years of educational experience in this area. My focus is on delivering high-quality, user-friendly products. I am also experienced with the MERN stack and enjoy learning and adapting to new technologies quickly.
 
-Skills: REACT / JS / HTML / CSS / BOOTSTRAP
+
+**Skills:** REACT / JS / HTML / CSS / BOOTSTRAP
 
 - 🌱 I’m currently learning Computer Science and Technology 
 - 👯 I’m looking to collaborate on Open Source Project
