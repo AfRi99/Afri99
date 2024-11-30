@@ -87,28 +87,21 @@ I am a dedicated Full Stack Web Developer with strong problem-solving abilities 
 
 
 <p style="margin-bottom: 20px;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AfRi99&show_icons=true&locale=en&layout=compact" alt="Afritha" style="margin-bottom: 20px;"/></p>
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfRi99&theme=dark"/>
+
+ <p style="margin-bottom: 20px;"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AfRi99&show_icons=true&include_all_commits=true&count_private=true"/>
     <br/>
+<!--      <br/>
      <br/>
-     <br/>
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AfRi99&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <br/>
-     <br/>
-     <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AfRi99&theme=dark" />
+   <div align="left">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AfRi9" /> -->
   </div>
-  
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AfRi99&label=Profile%20views&color=0e75b6&style=flat" alt="Afritha's profile views" /> </p>
