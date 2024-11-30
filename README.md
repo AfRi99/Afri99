@@ -95,6 +95,7 @@ I am a dedicated Full Stack Web Developer with strong problem-solving abilities 
 <br>
 <br>
 <br>
+<br>
 
 
  <p style="margin-bottom: 20px;"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AfRi99&show_icons=true&include_all_commits=true&count_private=true"/>
